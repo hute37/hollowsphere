@@ -1,0 +1,2 @@
+# hollowsphere
+Haskell Scratchpad
