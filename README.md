@@ -1,2 +1,4 @@
-# hollowsphere
-Haskell Scratchpad
+# hollowsphere: Haskell Scratchpad
+
+
+@see [HaskellStarter](https://github.com/joshcough/HaskellStarter)
